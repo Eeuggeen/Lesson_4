@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap');
+@import url("https://fonts.googleapis.com/css?family=Glory:100,200,300,regular,500,600,700,800,100italic,200italic,300italic,italic,500italic,600italic,700italic,800italic&display=swap");
+@font-face {
+    font-family: 'Fave Script';
+    src: url('../fonts/Fave-Script.woff2') format('woff2'), url('../fonts/Fave-Script.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@import url(../css/null.css);
+.wrapper{
+	font-size: 30px;
+}
+.htmllinkconnect{
+	font-family: Festive;
+}
+.cssconnect{
+	font-family: Glory, sans-serif;
+	font-weight: 700;
+	font-style: oblique;
+	text-align: justify;
+	
+}
+.vspluginconnect{
+	font-family: Oswald;
+	color: aquamarine;
+	text-align: center;
+}
+.localconnect{
+	font-family: 'Fave Script';
+	text-align: right;
+	text-decoration: line-through;
+	
+}
+.textshadow{
+	text-shadow: 1px 1px 1px blue, 1px 5px 3px firebrick, -10px -1px 0px aqua;
+	text-transform: uppercase;
+
+}
